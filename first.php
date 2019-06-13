@@ -1,5 +1,5 @@
 <?php
 $greeting = "hello";
-$wolrd = "japan";
-echo $greeting . "World";
+$world = "japan";
+echo $greeting . $world;
 ?>
