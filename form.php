@@ -5,7 +5,7 @@
 <head>
 </head>
 <body>
-<form method="POST" action='display.php'>
+<form method="GET" action='display.php'>
 <input type='text' name='name' placeholder='なまえ'>
 <input type='submit'>
 </form>
